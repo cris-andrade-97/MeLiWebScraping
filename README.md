@@ -10,7 +10,7 @@ Web scraping de monitores LED y LCD en Mercado Libre.
 ## Librerías usadas
 * pandas
 * requests
-* BeautifulSoup
+* bs4
 * time
 * (Se añadirán más proximamente)
 
