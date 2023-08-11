@@ -1,5 +1,5 @@
 # Mercado Libre Web Scraping
-Web scraping de monitores LED y LCD en Mercado Libre.
+Web scraping de monitores con el filtro 'nuevo' en Mercado Libre.
 
 ## Tecnologías usadas
 * Python3
@@ -12,6 +12,8 @@ Web scraping de monitores LED y LCD en Mercado Libre.
 * requests
 * bs4
 * time
+* seaborn
+* matplotlib.pyplot
 * (Se añadirán más proximamente)
 
 ## Columnas del DataFrame
