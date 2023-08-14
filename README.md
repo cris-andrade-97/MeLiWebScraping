@@ -1,5 +1,5 @@
 # Mercado Libre Web Scraping
-Web scraping de monitores con el filtro 'nuevo' en Mercado Libre.
+Web scraping de monitores con el filtro 'nuevo' en Mercado Libre realizado entre el 10 y el 11 de agosto de 2023.
 
 ## Tecnologías usadas
 * Python3
@@ -23,5 +23,5 @@ Web scraping de monitores con el filtro 'nuevo' en Mercado Libre.
 4. Tipo de resolución
 5. Tipo de pantalla
 6. Frecuencia de actualización
-7. Precio (en ARS y a inicios de Agosto de 2023)
+7. Precio (en ARS)
 8. Link
