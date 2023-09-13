@@ -8,9 +8,11 @@ Web scraping de monitores con el filtro 'nuevo' en Mercado Libre realizado entre
 `pip install notebook`
 `jupyter notebook`
 <br>
-En caso de tener problemas con lo anterior, pruebe con los siguientes comandos de instalación y ejecución:
+- En caso de tener problemas con lo anterior, pruebe con los siguientes comandos de instalación y ejecución:
+
 `pip install jupyter-notebook`
 `jupyter-notebook`
+
 5. Clone este repositorio
 6. Abrir con jupyter notebook los notebooks que se necesiten ver o ejecutar
 
