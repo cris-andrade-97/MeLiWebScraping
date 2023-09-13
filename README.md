@@ -1,6 +1,12 @@
 # Mercado Libre Web Scraping
 Web scraping de monitores con el filtro 'nuevo' en Mercado Libre realizado entre el 10 y el 11 de agosto de 2023.
 
+## Instrucciones para ejecutar
+1- Instalar python3 en su última versión en caso de no tenerlo.
+2- Instalar python3-pip en caso de no tenerlo.
+3- Instalar jupyter notebook o, alternativamente, usar Google Colab y copiar el enlace de este repo
+4- Abrir con jupyter notebook o con Colab los notebooks que se necesiten.
+
 ## Tecnologías usadas
 * Python3
 * Jupyter Notebook
