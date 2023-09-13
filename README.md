@@ -4,8 +4,9 @@ Web scraping de monitores con el filtro 'nuevo' en Mercado Libre realizado entre
 ## Instrucciones para ejecutar
 1. Instalar python3 en su última versión en caso de no tenerlo.
 2. Instalar python3-pip en caso de no tenerlo.
-3. Instalar jupyter notebook o, alternativamente, usar Google Colab y copiar el enlace de este repo
-4. Abrir con jupyter notebook o con Colab los notebooks que se necesiten ver o ejecutar.
+3. Instalar jupyter notebook o, alternativamente, usar Google Colab
+4. En caso de usar jupyter, clone este repo. Si prefiere Colab, copie el link de este repo
+5. Abrir con jupyter notebook o con Colab los notebooks que se necesiten ver o ejecutar
 
 ## Tecnologías usadas
 * Python3
