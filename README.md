@@ -8,11 +8,7 @@ Web scraping de monitores con el filtro 'nuevo' en Mercado Libre realizado entre
 4. Clone este repositorio
 5. Abrir con jupyter notebook los notebooks que se necesiten ver o ejecutar
 
-## Instrucciones para ejecutar desde Google Colab
-1. Abrir con una cuenta de Gmail <a href='https://colab.research.google.com/'>Google Colab</a>
-2. Seleccione la pestaña 'GitHub'
-3. Copie el link de este repo
-4. Abrir con Colab los notebooks que se necesiten ver o ejecutar
+
 
 
 ## Tecnologías usadas
