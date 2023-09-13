@@ -1,12 +1,19 @@
 # Mercado Libre Web Scraping
 Web scraping de monitores con el filtro 'nuevo' en Mercado Libre realizado entre el 10 y el 11 de agosto de 2023.
 
-## Instrucciones para ejecutar
+## Instrucciones para ejecutar desde Jupyter Notebook
 1. Instalar python3 en su última versión en caso de no tenerlo.
 2. Instalar python3-pip en caso de no tenerlo.
-3. Instalar jupyter notebook o, alternativamente, usar Google Colab
-4. En caso de usar jupyter, clone este repo. Si prefiere Colab, copie el link de este repo
-5. Abrir con jupyter notebook o con Colab los notebooks que se necesiten ver o ejecutar
+3. Instalar <a href='https://jupyter.org/install'>Jupyter Notebook</a>.
+4. Clone este repositorio
+5. Abrir con jupyter notebook los notebooks que se necesiten ver o ejecutar
+
+## Instrucciones para ejecutar desde Google Colab
+1. Abrir con una cuenta de Gmail <a href='https://colab.research.google.com/'>Google Colab</a>
+2. Seleccione la pestaña 'GitHub'
+3. Copie el link de este repo
+4. Abrir con Colab los notebooks que se necesiten ver o ejecutar
+
 
 ## Tecnologías usadas
 * Python3
