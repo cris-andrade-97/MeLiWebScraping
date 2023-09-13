@@ -4,9 +4,15 @@ Web scraping de monitores con el filtro 'nuevo' en Mercado Libre realizado entre
 ## Instrucciones para ejecutar desde Jupyter Notebook
 1. Instalar python3 en su última versión en caso de no tenerlo.
 2. Instalar python3-pip en caso de no tenerlo.
-3. Instalar <a href='https://jupyter.org/install'>Jupyter Notebook</a>.
-4. Clone este repositorio
-5. Abrir con jupyter notebook los notebooks que se necesiten ver o ejecutar
+3. Instalar <a href='https://jupyter.org/install'>Jupyter Notebook</a> con los siguientes comandos:
+`pip install notebook`
+`jupyter notebook`
+<br>
+En caso de tener problemas con lo anterior, pruebe con los siguientes comandos de instalación y ejecución:
+`pip install jupyter-notebook`
+`jupyter-notebook`
+5. Clone este repositorio
+6. Abrir con jupyter notebook los notebooks que se necesiten ver o ejecutar
 
 
 
